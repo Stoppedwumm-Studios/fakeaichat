@@ -1,2 +1,2 @@
 # fakeaichat
-A fake AI Chat App
+A fake AI Chat App (LOL)
